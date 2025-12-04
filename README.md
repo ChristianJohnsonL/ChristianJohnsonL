@@ -1,5 +1,5 @@
 - Hey, how's it going? My name is Christian Johnson.
-- I am a junior software engineering student at Morehouse College in Atlanta, Georgia. 
+- I am a senior software engineering student at Morehouse College in Atlanta, Georgia. 
 - I'm interested in the creation of mobile and web applications.
 - I am most experienced in C++
 - I am also experienced in Javascript, Python, and HTML
